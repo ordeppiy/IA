@@ -1,2 +1,2 @@
-# IA
- asistente virtual python
+# ia
+ assistente virtual python
